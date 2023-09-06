@@ -5,6 +5,6 @@ def sum_number(End):
     print(f"sum of 1 .. {End} = {sum}")
 
 print("Program sum 1 to n used function.")
-sum = int(input("Enter number : "))
-sum_number(sum)
+num = int(input("Enter number : "))
+sum_number(num)
 
