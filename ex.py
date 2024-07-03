@@ -1,0 +1,6 @@
+n = input ('Enter full name : ')
+s = (n.split()[0])
+print("Your name : ",s)
+print("Lower name : ",s.lower())
+print("Upper name : ",s.upper())
+print("Capitalize name : ",s.capitalize())
